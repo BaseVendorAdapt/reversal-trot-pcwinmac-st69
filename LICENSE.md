@@ -1,4 +1,4 @@
-# 
+# 自定义 reversal trading bot 扩展 Mac OS版 | 开源 reversal trading bot 扩展 PC Windows版。集成 速率限制 和 订单簿分析，跨平台性能最大化。
 
 
 
